@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'spiralsprinterbrownie',
   tip2Id: 'spiralsprintertaco',
-  tip1Label: '💛 Buy me a brownie',
-  tip2Label: '💛 Buy me a taco',
+  tip1Label: '💛 Spiral Sprinter — buy me a brownie',
+  tip2Label: '💛 Spiral Sprinter — buy me a taco',
 );
